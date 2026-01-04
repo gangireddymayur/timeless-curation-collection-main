@@ -1,48 +1,43 @@
-Timeless Curation
+# Timeless Curation
 
-Timeless Curation is a modern, elegant e-commerce and lifestyle web application built using React, Vite, and Tailwind CSS.
-The project focuses on clean UI/UX, reusable components, and scalable architecture, closely resembling a real-world production frontend.
+**Timeless Curation** is a modern, elegant **e-commerce and lifestyle web application** built using **React, Vite, and Tailwind CSS**.
+The project focuses on **clean UI/UX, reusable components, and scalable architecture**, closely resembling a real-world production frontend.
 
 This repository demonstrates strong frontend fundamentals, component-driven development, and practical application structure.
 
-✨ Features
+---
 
-Modern landing page with hero section and curated collections
+## ✨ Features
 
-Featured collections and trending products showcase
+* Modern landing page with hero section and curated collections
+* Featured collections and trending products showcase
+* Wishlist, cart, checkout, and order confirmation flow
+* Blog system with categories, search, and detailed posts
+* Responsive navigation bar and footer
+* Newsletter subscription section
+* Reusable UI components (buttons, dialogs, cards, carousels, etc.)
+* Fully responsive design across devices
 
-Wishlist, cart, checkout, and order confirmation flow
+---
 
-Blog system with categories, search, and detailed posts
+## 🛠 Tech Stack
 
-Responsive navigation bar and footer
+* **React (JSX / TSX)**
+* **Vite**
+* **Tailwind CSS**
+* **JavaScript**
+* **TypeScript (config level)**
+* **Component-based architecture**
+* **ESLint**
 
-Newsletter subscription section
+> GitHub Language Stats: **JavaScript ~98%**
+> (Expected for a React-based frontend project)
 
-Reusable UI components (buttons, dialogs, cards, carousels, etc.)
+---
 
-Fully responsive design across devices
+## 📁 Project Structure
 
-🛠 Tech Stack
-
-React (JSX / TSX)
-
-Vite
-
-Tailwind CSS
-
-JavaScript
-
-TypeScript (config level)
-
-Component-based architecture
-
-ESLint
-
-GitHub Language Stats: JavaScript ~98%
-(Expected for a React-based frontend project)
-
-📁 Project Structure
+```bash
 timeless-curation-collection-main/
 │
 ├── public/
@@ -112,59 +107,66 @@ timeless-curation-collection-main/
 ├── bun.lockb
 ├── .gitignore
 └── README.md
+```
 
-🖥 UI Overview
-Home Page
+---
 
-Hero section with brand message
+## 🖥 UI Overview
 
-Featured collections (Top Picks, New Arrivals, Luxury Essentials)
+### Home Page
 
-Trending products with wishlist icons
+* Hero section with brand message
+* Featured collections (Top Picks, New Arrivals, Luxury Essentials)
+* Trending products with wishlist icons
+* Customer testimonials
+* Newsletter subscription
 
-Customer testimonials
+### Blog
 
-Newsletter subscription
+* Blog listing with categories
+* Search functionality
+* Individual blog post layout
+* Sidebar with recent posts
 
-Blog
+---
 
-Blog listing with categories
+## ▶️ Run Locally
 
-Search functionality
-
-Individual blog post layout
-
-Sidebar with recent posts
-
-▶️ Run Locally
+```bash
 # Install dependencies
 npm install
 
 # Start development server
 npm run dev
-
+```
 
 Open in browser:
 
+```
 http://localhost:5173
+```
 
-🚀 Future Enhancements
+---
 
-Backend integration (Firebase / Supabase / Node.js)
+## 🚀 Future Enhancements
 
-Authentication and user profiles
+* Backend integration (Firebase / Supabase / Node.js)
+* Authentication and user profiles
+* Payment gateway integration
+* Admin dashboard
+* API-driven products and blog content
 
-Payment gateway integration
+---
 
-Admin dashboard
+## 👤 Author
 
-API-driven products and blog content
+**Mayur Gangireddy**
+GitHub: [https://github.com/gangireddymayur](https://github.com/gangireddymayur)
 
-👤 Author
+---
 
-Mayur Gangireddy
-GitHub: https://github.com/gangireddymayur
+## 📄 License
 
-📄 License
+This project is open-source and available under the **MIT License**.
 
-This project is open-source and available under the MIT License.
+Just say the word.
