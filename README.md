@@ -30,8 +30,6 @@ This repository demonstrates strong frontend fundamentals, component-driven deve
 * **Component-based architecture**
 * **ESLint**
 
-> GitHub Language Stats: **JavaScript ~98%**
-> (Expected for a React-based frontend project)
 
 ---
 
